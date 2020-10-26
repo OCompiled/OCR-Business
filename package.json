@@ -1,0 +1,22 @@
+{
+  "name": "OCR Business",
+  "version": "1.0.0",
+  "description": "Business Card reader",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "human-names": "^1.0.11",
+    "validator": "^11.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olujimi Adetula",
+  "license": "ISC"
+}
